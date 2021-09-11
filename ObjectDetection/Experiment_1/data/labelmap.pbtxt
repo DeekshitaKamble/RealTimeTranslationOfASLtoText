@@ -1,0 +1,215 @@
+item {
+  id: 1
+  name: 'before'
+}
+
+item {
+  id: 2
+  name: 'big'
+}
+
+item {
+  id: 3
+  name: 'bye'
+}
+
+item {
+  id: 4
+  name: 'cat'
+}
+
+item {
+  id: 5
+  name: 'cold'
+}
+
+item {
+  id: 6
+  name: 'dad'
+}
+ 
+item {
+  id: 7
+  name: 'day'
+}
+ 
+item {
+  id: 8
+  name: 'excuse'
+}
+ 
+item {
+  id: 9
+  name: 'hello'
+}
+ 
+item {
+  id: 10
+  name: 'horse'
+}
+ 
+item {
+  id: 11
+  name: 'hot'
+}
+ 
+item {
+  id: 12
+  name: 'how'
+}
+ 
+item {
+  id: 13
+  name: 'hurt'
+}
+ 
+item {
+  id: 14
+  name: 'i'
+}
+ 
+item {
+  id: 15
+  name: 'love'
+}
+ 
+item {
+  id: 16
+  name: 'mom'
+}
+ 
+item {
+  id: 17
+  name: 'more'
+}
+ 
+item {
+  id: 18
+  name: 'night'
+}
+ 
+item {
+  id: 19
+  name: 'no'
+}
+ 
+item {
+  id: 20
+  name: 'please'
+}
+ 
+item {
+  id: 21
+  name: 'school'
+}
+ 
+item {
+  id: 22
+  name: 'sleep'
+}
+ 
+item {
+  id: 23
+  name: 'stop'
+}
+ 
+item {
+  id: 24
+  name: 'thank you'
+}
+ 
+item {
+  id: 25
+  name: 'walk'
+}
+ 
+item {
+  id: 26
+  name: 'wash'
+}
+ 
+item {
+  id: 27
+  name: 'what'
+}
+ 
+item {
+  id: 28
+  name: 'when'
+}
+ 
+item {
+  id: 29
+  name: 'where'
+}
+ 
+item {
+  id: 30
+  name: 'who'
+}
+ 
+item {
+  id: 31
+  name: 'why'
+}
+ 
+item {
+  id: 32
+  name: 'will'
+}
+ 
+item {
+  id: 33
+  name: 'yes'
+}
+ 
+item {
+  id: 34
+  name: 'you'
+}
+ 
+item {
+  id: 35
+  name: 'dislike'
+}
+ 
+item {
+  id: 36
+  name: 'friend'
+}
+  
+item {
+  id: 37
+  name: 'help'
+}
+  
+item {
+  id: 38
+  name: 'house'
+}
+  
+item {
+  id: 39
+  name: 'like'
+}
+  
+item {
+  id: 40
+  name: 'make'
+}
+    
+item {
+  id: 41
+  name: 'name'
+}
+  
+item {
+  id: 42
+  name: 'pay'
+}
+  
+item {
+  id: 43
+  name: 'with'
+}
+   
