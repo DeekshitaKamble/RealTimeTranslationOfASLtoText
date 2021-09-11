@@ -1,0 +1,9 @@
+training_inputs:
+    scaleTier: CUSTOM
+    masterType: n1-highcpu-16
+    workerType: nvidia-tesla-v100
+    parameterServerType: standard
+    workerCount: 4
+    parameterServerCount: 2
+    runtimeVersion: 2.4
+    pythonVersion: 3.7
